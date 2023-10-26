@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 [![Dockerバッジ](https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat-square&logoColor=white)](https://www.docker.com/)
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASAKA-219&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ASAKA-219&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,docker&perline=3)](https://skillicons.dev)
