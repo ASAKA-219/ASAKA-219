@@ -1,19 +1,14 @@
-### Hi there 👋
-haha
-<!--
-**ASAKA-219/ASAKA-219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### オガネソン
+## 自己紹介
+私は情報通信工学科のB4です！卒論では多次元ファジィ集合について研究する予定です！
+３年生まではROS、ROS 2を使ったロボット開発をしてました！
+好きなプログラミング言語はPythonです！
+使ったことのある言語はPython、C/C++、Java、（latex）
+趣味は日本史の勉強、アニメ鑑賞、物理の勉強、Dockerです！
+好きな技術はDockerです
 
-Here are some ideas to get you started:
+よろしくお願いします！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASAKA-219&theme=2077)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ASAKA-219&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 [![言語バッジ](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
