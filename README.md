@@ -21,6 +21,7 @@
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASAKA-219&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ASAKA-219&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+[![typograssy](https://typograssy.deno.dev/api?text=Hello_World!)](https://github.com/kawarimidoll/typograssy)
 
 ## Like Languages and Tools
 [![言語バッジ](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
