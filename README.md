@@ -3,26 +3,15 @@
 
 ### 情報通信工学科のB4です！卒論では多次元ファジィ集合について研究してます！
 
-３年生まではROS、ROS 2を使ったロボット開発をしてました！
+[![typograssy](https://typograssy.deno.dev/api?text=Hello_World!)](https://github.com/kawarimidoll/typograssy)
 
-好きなプログラミング言語はPython、C++です！
-
-使ったことのある言語はPython、C/C++、Java、（latex）です
-
-趣味は日本史の勉強、アニメ鑑賞、物理の勉強、Dockerです！
-
-好きな技術はDockerです!最近はNix(OS)も気になってます
-
-### よろしくお願いします！
+### 好きなものはDockerです!最近はNix(OS)も気になってます, よろしくお願いします！
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASAKA-219&theme=2077)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ASAKA-219&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASAKA-219&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ASAKA-219&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
-
-[![typograssy](https://typograssy.deno.dev/api?text=Hello_World!)](https://github.com/kawarimidoll/typograssy)
 
 ## Like Languages and Tools
 [![言語バッジ](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
