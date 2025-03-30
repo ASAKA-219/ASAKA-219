@@ -17,4 +17,5 @@
 [![フレームワークバッジ](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&style=flat-square&logoColor=white)](https://rubyonrails.org/)
 [![Dockerバッジ](https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat-square&logoColor=white)](https://www.docker.com/)
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,docker,git&perline=9)](https://skillicons.dev)
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,ros,java,docker,git,c,ruby,latex,linux,nix,neovim,opencv,twitter,ts&perline=9&theme=light)](https://skillicons.dev)
